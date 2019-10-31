@@ -3,9 +3,10 @@
 Node (latest) which includes npm
 * verify by opening terminal and typing node --v
 
-_______________________________________________________________
+__________________________________________________________________________________________________________________________
 
-Make sure that you have already run npm init or have a node_modules folder or package.json file in the root of your project to ensure cypress is installed in the correct directory.
+Make sure that you have already run npm init or have a node_modules 
+folder or package.json file in the root of your project to ensure cypress is installed in the correct directory.
 
 ```
 
