@@ -1,4 +1,4 @@
-# Cypress Pre-Requirements
+## Cypress Pre-Requirements
 ```
 Node (latest) which includes npm
 * verify by opening terminal and typing node --v
@@ -12,12 +12,12 @@ in the correct directory.
 ```
 
 
-#### What Is Cypress
+### What Is Cypress
 ```
 An All-in-one testing framework, assertion library, with mocking and stubbing, all without Selenium.
 ```
 
-#### Setup
+### Setup
 ```
 * Create a working directory somewhere on your computer
 * Visit https://www.cypress.io/
