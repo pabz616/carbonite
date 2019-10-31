@@ -1,2 +1,8 @@
-# redesigned-octo-adventure
-Nightwatch (JS) repo; baryte - derived from the ancient greek word barús, 'heavy'
+# Cypress Setup
+```
+Required: node (latest) which includes npm
+```
+#### Command
+```
+npm install cypress
+```
