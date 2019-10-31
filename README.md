@@ -19,5 +19,5 @@ An All-in-one testing framework, assertion library, with mocking and stubbing, a
 ```
 * Create a working directory somewhere on your computer
 * Visit https://www.cypress.io/
-* Click npm install cypress
+* Click npm install cypress --save-dev .. as a dependency
 ```

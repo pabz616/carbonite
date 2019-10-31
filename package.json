@@ -1,0 +1,22 @@
+{
+  "name": "carbonite",
+  "version": "1.0.0",
+  "description": "cypress automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabz616/carbonite.git"
+  },
+  "author": "Pablo V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabz616/carbonite/issues"
+  },
+  "homepage": "https://github.com/pabz616/carbonite#readme",
+  "devDependencies": {
+    "cypress": "^3.6.0"
+  }
+}
