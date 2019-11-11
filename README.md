@@ -23,8 +23,14 @@ An All-in-one testing framework, assertion library, with mocking and stubbing, a
 * Visit https://www.cypress.io/
 * Click npm install cypress --save-dev .. as a dependency
 ```
+## Update Cypress
+```
+npm install --save-dev cypress@3.6.1 (or latest version number)
+```
 
 ## Run Cypress
 ```
 npx cypress open
+or 
+node_modules/.bin/cypress open
 ```
