@@ -34,3 +34,9 @@ npx cypress open
 or 
 node_modules/.bin/cypress open
 ```
+
+## Useful Add-on
+```
+npm install -D cypress-xpath  - to install
+require('cypress-xpath') - to  use in your tests
+```
