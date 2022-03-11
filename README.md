@@ -35,6 +35,11 @@ or
 node_modules/.bin/cypress open
 ```
 
+## Write Cypress Tests
+```
+touch ${project-name}/cypress/integration/${testName_spec.js}
+```
+
 ## Useful Add-on
 ```
 npm install -D cypress-xpath  - to install
