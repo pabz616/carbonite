@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/pabz616/carbonite#readme",
   "devDependencies": {
-    "cypress": "^12.7.0",
+    "cypress": "^15.1.0",
     "cypress-xpath": "^1.4.0"
   }
 }
